@@ -1,2 +1,2 @@
 # blog
-blogs
+using hexo to deploy blogs to github.io
