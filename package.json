@@ -22,6 +22,10 @@
   },
   "devDependencies": {},
   "scripts": {
+    "clean": "hexo clean",
+    "build": "hexo g",
+    "dev": "hexo s",
+    "deploy": "hexo d -g",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
